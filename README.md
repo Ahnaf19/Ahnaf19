@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahnaf19
 - 👀 Interested in coding: python, data science, web/data scrapping, electronics, arduino/iot
-- 🌱 Currently learning: Data Scienetist Professional By DataCamp
+- 🌱 Currently learning: fast api
 - 💞️ I’m looking to collaborate on: remote projects related to python
 - 📫 Reach me: ahnaftanjid19@gmail.com 
 
