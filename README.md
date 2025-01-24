@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahnaf19
 - 👀 Interested in coding: python, data science, web/data scrapping, electronics, arduino/iot
-- 🌱 Currently learning: fast api
-- 💞️ I’m looking to collaborate on: remote projects related to python
+- 🌱 Currently learning: fast api, github actions
+- 💞️ I’m looking to collaborate on: backend/ML projects (python)
 - 📫 Reach me: ahnaftanjid19@gmail.com 
 
 <!---
